@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_CSVKullanim", "MCD_CSVKullanim\MCD_CSVKullanim.csproj", "{A0B3EB46-6182-48D6-A4C5-88AA07D91836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B3EB46-6182-48D6-A4C5-88AA07D91836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B3EB46-6182-48D6-A4C5-88AA07D91836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B3EB46-6182-48D6-A4C5-88AA07D91836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B3EB46-6182-48D6-A4C5-88AA07D91836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1D19FD-B3E6-49F4-B6BC-13193AE23170}
+	EndGlobalSection
+EndGlobal
